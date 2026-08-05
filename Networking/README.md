@@ -4,10 +4,10 @@ This section contains my networking study notes, concepts, and practical example
 
 ## Topics
 
+* Network Types
 * OSI Model
 * TCP/IP Model
 * IP Addressing
-* Subnetting
 * Ports and Protocols
 * DNS
 * HTTP/HTTPS
@@ -17,11 +17,25 @@ This section contains my networking study notes, concepts, and practical example
 
 ## Files
 
-* [01 - OSI Model](./01-osi-model.md)
-* [02 - TCP/IP Model](./02-tcp-ip.md)
-* [03 - IP Addressing](./03-ip-addressing.md)
-* [04 - Ports and Protocols](./04-ports-and-protocols.md)
-* [05 - DNS](./05-dns.md)
-* [06 - HTTP and HTTPS](./06-http-and-https.md)
-* [07 - Firewalls](./07-firewalls.md)
-* [08 - Wireshark](./08-wireshark.md)
+* [01 - Network Types](./01-network-types.md)
+* [02 - OSI Model](./02-osi-model.md)
+* [03 - TCP/IP Model](./03-tcp-ip.md)
+* [04 - IP Addressing](./04-ip-addressing.md)
+* [05 - Ports and Protocols](./05-ports-and-protocols.md)
+* [06 - DNS](./06-dns.md)
+* [07 - HTTP and HTTPS](./07-http-and-https.md)
+* [08 - Firewalls](./08-firewalls.md)
+* [09 - Wireshark](./09-wireshark.md)
+
+## Cybersecurity Relevance
+
+Networking knowledge is essential for:
+
+* SOC Operations
+* Threat Hunting
+* Incident Response
+* Cloud Security
+* Firewall Management
+* Network Monitoring
+* Security Analysis
+
