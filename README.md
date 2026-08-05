@@ -1,2 +1,20 @@
-# -cybersecurity-notes
-🇧🇷 PT Repositório com minhas anotações, laboratórios e estudos em Cibersegurança, documentando minha evolução em Linux, Redes, SOC e Blue Team  | 🇺🇸 EN Repository containing my cybersecurity notes, labs and study materials, documenting my learning journey in Linux, Networking, SOC and Blue Team
+# 📚 Cybersecurity Notes
+
+My personal cybersecurity study notes and labs.
+
+## 📂 Topics
+
+- Linux
+- Networking
+- Windows
+- Active Directory
+- SIEM
+- Blue Team
+- SOC
+- Cloud Security
+- Python
+- Incident Response
+
+## 🎯 Goal
+
+Document my learning journey and build a public cybersecurity knowledge base.
